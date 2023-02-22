@@ -1,5 +1,3 @@
-# Market-Basket-Analysis
-
 
 # Market Basket Analysis of Store Data
 
